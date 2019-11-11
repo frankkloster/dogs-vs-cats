@@ -1,7 +1,11 @@
-# Where data is stored.
+# Don't need to to keep track of data files.
 data/
 test/
-
 *.csv
 
+# Misc. Python
 __pycache__/
+.ipynb_checkpoints/
+
+# Don't keep track of Visual Studio Code settings.
+.vscode/

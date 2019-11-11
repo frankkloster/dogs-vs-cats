@@ -1,0 +1,3 @@
+This is created for the sole purpose of training a model for [Kaggle's Dogs vs. Cats competition](https://www.kaggle.com/c/dogs-vs-cats). The sole purpose of this is to create a code base that can be used to easily modified for further Kaggle competitions.
+
+Note that the code is based off of [this tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html). Probably as I clean things up, things will resemble things far less.
