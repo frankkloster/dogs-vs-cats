@@ -1,0 +1,7 @@
+# Where data is stored.
+data/
+test/
+
+*.csv
+
+__pycache__/
